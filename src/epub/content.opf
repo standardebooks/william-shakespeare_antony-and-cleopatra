@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/antony-and-cleopatra</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-03T20:32:37Z</dc:date>
+		<meta property="dcterms:modified">2022-01-03T20:32:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -55,18 +54,17 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">This romantic tragedy follows the relationship of a Roman triumvir and the Queen of Egypt.</dc:description>
+		<dc:description id="description">Mark Antony, a Roman triumvir, and Cleopatra, the Queen of Egypt, become embroiled in a deadly love affair.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Mark Antony was supposed to be in Egypt to conduct government affairs on behalf of the Roman Empire. Instead, he fell in love with the beautiful Queen Cleopatra, became her lover, and abandoned his duties to his wife and country. A messenger arrives bearing news that Antony’s wife and brother are dead after attempting to kill Octavius Caesar, and one of Ceasar’s generals, Pompey, is gathering an army against the Roman leaders. Mark Antony has no choice but to return to Rome. When Antony returns to the capital, he argues with Ceasar over his loyalty to the empire and the other triumvirs. The only way that Antony can prove his fidelity to Caesar is to marry his sister, Octavia. The news of this marriage makes its way back to Egypt and its queen.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Antony and Cleopatra&lt;/i&gt; contains many allusions to Virgil’s Latin epic poem, the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/virgil/the-aeneid/john-dryden"&gt;Aeneid&lt;/a&gt;&lt;/i&gt;. Cleopatra and Dido are strong rulers that fall in love with Roman warriors; they both try to tempt their lovers to stay with them forever. Antony, like Aeneas, picks his political duties over passion and returns to Rome. Both couples are reunited in the afterlife.&lt;/p&gt;
-			&lt;p&gt;The play was published in 1606 after the great success of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/macbeth"&gt;Macbeth&lt;/a&gt;&lt;/i&gt;. The plot begins two years after &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/julius-caesar"&gt;Julius Ceasar&lt;/a&gt;&lt;/i&gt;. This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Antony and Cleopatra&lt;/i&gt; begins two years after &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/julius-caesar"&gt;Julius Ceasar&lt;/a&gt;&lt;/i&gt;. Mark Antony was supposed to be in Egypt to conduct government affairs on behalf of the Roman Empire. Instead, he fell in love with the beautiful Queen Cleopatra, became her lover, and abandoned his duties to his wife and country. A messenger arrives bearing news that Antony’s wife and brother are dead after attempting to kill Octavius Caesar, and one of Ceasar’s generals, Pompey, is gathering an army against the Roman leaders. Mark Antony has no choice but to return to Rome. When Antony returns to the capital, he argues with Ceasar over his loyalty to the empire and the other triumvirs. The only way that Antony can prove his fidelity to Caesar is to marry his sister, Octavia. The news of this marriage makes its way back to Egypt and its queen.&lt;/p&gt;
+			&lt;p&gt;The play was published in 1606 after the great success of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-shakespeare/macbeth"&gt;Macbeth&lt;/a&gt;&lt;/i&gt;. This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/cleopatra/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">27174</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Antony_and_Cleopatra</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_antony-and-cleopatra</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -92,6 +90,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
