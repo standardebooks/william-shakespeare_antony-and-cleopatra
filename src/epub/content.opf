@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Antony and Cleopatra</dc:title>
 		<meta property="file-as" refines="#title">Antony and Cleopatra</meta>
-		<dc:subject id="subject-1">Generals -- Rome -- Drama</dc:subject>
-		<dc:subject id="subject-2">Queens -- Egypt -- Drama</dc:subject>
-		<dc:subject id="subject-3">Antonius, Marcus, 83 B.C.?-30 B.C. -- Drama</dc:subject>
-		<dc:subject id="subject-4">Cleopatra, Queen of Egypt, -30 B.C. -- Drama</dc:subject>
+		<dc:subject id="subject-1">Generals--Rome--Drama</dc:subject>
+		<dc:subject id="subject-2">Queens--Egypt--Drama</dc:subject>
+		<dc:subject id="subject-3">Antonius, Marcus, 83 B.C.?-30 B.C.--Drama</dc:subject>
+		<dc:subject id="subject-4">Cleopatra, Queen of Egypt, -30 B.C.--Drama</dc:subject>
 		<dc:subject id="subject-5">Tragedies</dc:subject>
-		<dc:subject id="subject-6">Romans -- Egypt -- Drama</dc:subject>
-		<dc:subject id="subject-7">Egypt -- History -- 332-30 B.C. -- Drama</dc:subject>
-		<dc:subject id="subject-8">Rome -- History -- Civil War, 43-31 B.C. -- Drama</dc:subject>
+		<dc:subject id="subject-6">Romans--Egypt--Drama</dc:subject>
+		<dc:subject id="subject-7">Egypt--History--332-30 B.C.--Drama</dc:subject>
+		<dc:subject id="subject-8">Rome--History--Civil War, 43-31 B.C.--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008117846</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
